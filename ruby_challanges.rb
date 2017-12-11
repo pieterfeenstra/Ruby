@@ -33,10 +33,7 @@ def longest_string(str)
         longest = st.length
      end
    end
-
    return longest
-
-
 end
 
 puts longest_string("What if we try a super-long word such as otorhinolaryngology")
